@@ -1,0 +1,29 @@
+[
+    {
+        "id_cita": "CITA01",
+        "paciente": "Luis Alcantara",
+        "especialidad": "Pediatria",
+        "fecha": "2026-09-30",
+        "costo_consulta": 160000.0,
+        "es_urgencia": false,
+        "costo_final": 136000.0
+    },
+    {
+        "id_cita": "CITA02",
+        "paciente": "Julian Qiñones",
+        "especialidad": "Odontologia",
+        "fecha": "2026-09-18",
+        "costo_consulta": 300000.0,
+        "es_urgencia": true,
+        "costo_final": 300000.0
+    },
+    {
+        "id_cita": "CITA03",
+        "paciente": "Alfredo Rojas",
+        "especialidad": "Medicina General",
+        "fecha": "2026-11-26",
+        "costo_consulta": 70000.0,
+        "es_urgencia": false,
+        "costo_final": 70000.0
+    }
+]
